@@ -2,9 +2,9 @@
 
 using namespace std;
 
-int main(){
-	
-cout<<"Hello World!";
+int main()
+{	
+    cout<<"Testowy napis";
 
-return 0;
+    return 0;
 }
